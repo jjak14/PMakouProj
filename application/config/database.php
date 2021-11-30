@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'cicool',
+	'hostname' => 'sql-server.k8s-966qdrrl',
+	'username' => 'worldtroc',
+	'password' => '	}KBX=YCueP',
+	'database' => 'worldtroc',
 	'port' 	   => '3306',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
